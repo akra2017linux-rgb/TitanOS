@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ISO builds
+*.iso
+*.iso.sha256
+iso-builds/
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.ko
+*.mod
+*.mod.c
+
+# Docker
+.docker/
+*.tar
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.bak
+*.swap
+*.lock
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node (for any frontend components)
+node_modules/
+npm-debug.log
+
+# Credentials
+*.pem
+*.key
+*.crt
+secrets/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Project specific
+/out/
+/dist/
+/release/
+/artifacts/
